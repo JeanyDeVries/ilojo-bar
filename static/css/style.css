@@ -416,7 +416,6 @@ main.discover {
 
 .window {
     position: absolute;
-
 }
 
 .door {
@@ -439,6 +438,21 @@ li:hover .window_L {
 
 li:hover .window_R {
     transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(110deg);
+}
+
+.window_img_cont {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inner_window_img {
+    background: red;
+    height: 100%;
+    width: 64%;
 }
 
 .btn_wrap {
