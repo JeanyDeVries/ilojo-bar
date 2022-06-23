@@ -7,29 +7,25 @@
   - [Beschrijving](#Beschrijving)
   - [Installatie](#Installatie)
   - [Functies](#Functies)
-  - [Sockets](#Sockets)
-  - [Supabase API (database)](#supabase-api-database)
-  - [Data flow diagram](#Data-flow-diagram)
   - [To-do](#To-do)
-  - [Bronnen](#Bronnen)
   - [Auteurs](#Auteurs)
   - [Bijdrage](#Bijdrage)
-  - [Licentie](#Licentie)
+  - [License](#Licentie)
 
-## [Live demo](https://little-list-jorn.herokuapp.com/)
+## [Live demo](http://ilojo-bar.herokuapp.com/)
 
-## Beschrijving
-Little List is een real-time checklist applicatie. Met Little List kun je lijstjes maken die instant updaten, door de constante verbinding met de server. Super handig, als je vader al in de supermarkt staat en je zet nog nét even de pindakaas op het lijstje. Deze verschijnt meteen bij paps op zijn mobiel. 
+## Description
+Ilojo Bar of Casa do Fernandez was a national monument in Lagos, Nigeria, that was illegaly demolished in 2016. Ilojo bar was designed and build by Africans in the 19th century who returned from slavery in Brazil. Legacy wanted us to build a site that gives a remembrance of the building with it's many stories plus a visualisation of how it once was.
 
-<img src="docs/interface1.png" width="50%" alt="Een screenshot van de interface van Little List ">
+<img src="https://user-images.githubusercontent.com/44086608/175311012-25f9715e-c25b-4858-a1e6-6525277077e5.png" height="200"/> <img src="https://user-images.githubusercontent.com/44086608/175311129-5ab3a7b3-9bf3-4172-8d5b-fc4bdf80ba4b.png" height="200"/>
 
-## Installatie
+## Installation
 Clone deze repository naar jouw lokale folder:
 ```
 git clone https://github.com/jornveltrop/little-list.git
 ```
 
-## Functies
+## Functions
 |                                                                   |     |
 | ----------------------------------------------------------------- | --- |
 | 📋  Handige checklist                                             | ✔   |
@@ -41,13 +37,13 @@ git clone https://github.com/jornveltrop/little-list.git
 ## To-do
 
 
-
-## Auteurs
+## Authors
 De maker van deze app is [Jorn Veltrop](https://github.com/jornveltrop).
 
-## Bijdrage
+## Contribution
 Als je wilt bijdragen aan deze app kun je dat doen door middel van het aanmaken van een [issue](https://github.com/jornveltrop/little-list/issues).
 
-## Licentie
-Dit project valt onder de MIT [license](./LICENSE).
+## License
+![image](https://user-images.githubusercontent.com/44086608/175332292-9de876e3-8886-4f3b-8463-51958dca3b23.png)
+This work is licensed under GNU GPLv3.
 
