@@ -28,10 +28,12 @@ git clone https://github.com/JeanyDeVries/ilojo-bar.git
 ## Functions
 |                                                                   |     |
 | ----------------------------------------------------------------- | --- |
-| 📋  Handige checklist                                             | ✔   |
-| ⏱️  Real-time functionaliteit                                     | ✔   |
-| 🔒  Gekoppeld aan je Google account                               | ✔   |
-| 💾  Data wordt opgeslagen in de database                          | ✔   |
+|     3D model visualisation                                        | ✔   |
+|     Scroll effect                                                 | ✔   |
+|     Opening windows effect                                        | ✔   |
+|     Retrieving data from prismic                                  | ✔   |
+|     Caching                                                       | ✔   |
+
 
 
 ## To-do
@@ -43,8 +45,7 @@ Sadly we only had a limited time for this project, so their are still features/e
 - [ ] Add music for immersion
 
 ## Authors
-The makers of this web application are [Jorn Veltrop](https://github.com/jornveltrop) and [Jeany de Vries](https://github.com/JeanyDeVries)
-De maker van deze app is [Jorn Veltrop](https://github.com/jornveltrop).
+The makers of this web application are [Jorn Veltrop](https://github.com/jornveltrop) and [Jeany de Vries](https://github.com/JeanyDeVries).
 
 ## Contribution
 If you want to contribute to this web application, you can do that through an [issue](https://github.com/JeanyDeVries/ilojo-bar/issues).
